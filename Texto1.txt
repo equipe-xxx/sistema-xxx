@@ -1,1 +1,2 @@
+Fiz essa alteração no texto do git2.
 Fiz essa alteração no git1
